@@ -1,0 +1,14 @@
+# Build output and caches
+.pio/
+build*/
+__pycache__/
+*.pyc
+.vscode/
+*.log
+*.bin
+*.elf
+*.exe
+*.o
+
+# Local credentials
+secrets.h
